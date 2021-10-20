@@ -9,7 +9,6 @@ function NavItem(props: NavItemProps): JSX.Element {
         {"~"}
         {props.label.toUpperCase()}
       </a>
-      <span> {"-->"} </span>
     </>
   );
 }
