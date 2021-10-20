@@ -38,7 +38,8 @@ function FriendStatuses(): JSX.Element {
           <small>36 minutes ago</small>
         </li>
         <li>
-          ⭐ <a href="#">Florian</a>: Preparing a pizza
+          ⭐ <a href="#">Florian</a>: Preparing a pizza Margherita with
+          Pepperoni
           <small>about 3 hours ago</small>
         </li>
         <li>

@@ -5,8 +5,8 @@ function AppHeader(): JSX.Element {
     <header>
       <h2>twitter</h2>
       <nav>
-        <NavItem label={'updates'} />
-        <NavItem label={'archive'} />
+        <NavItem label={"updates"} />
+        <NavItem label={"archive"} />
         <a href="#">preferences</a>
         <span> | </span>
         <a href="#">help</a>
